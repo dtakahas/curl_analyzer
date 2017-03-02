@@ -40,4 +40,4 @@ Got parsed query params:
 
 ## Contributors
 
-- [[dtakahas]](https://github.com/[dtakahas]) Dave Takahashi - creator, maintainer
+- [dtakahas](https://github.com/[dtakahas]) Dave Takahashi - creator, maintainer
