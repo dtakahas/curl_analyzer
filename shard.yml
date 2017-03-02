@@ -1,0 +1,7 @@
+name: curl-analyzer
+version: 0.1.0
+
+authors:
+  - Dave Takahashi <dtcello@gmail.com>
+
+license: MIT
