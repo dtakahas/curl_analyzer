@@ -1,6 +1,6 @@
 # curl-analyzer
 
-This is a server you can run locally to see how curl is encoding things and how this server decodes them.
+This is a server that bounces back a response to any uri to show how curl is encoding things and how the server decodes them.
 
 ## Installation
 
